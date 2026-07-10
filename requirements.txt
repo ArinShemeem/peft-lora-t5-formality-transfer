@@ -1,0 +1,12 @@
+transformers
+datasets
+torch
+accelerate
+peft
+evaluate
+sentencepiece
+scikit-learn
+numpy
+pandas
+tqdm
+huggingface_hub
